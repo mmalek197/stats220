@@ -16,6 +16,12 @@ This is my repo for **STATS 220** at the *University Of Auckland*.
 2. Working with R and the {magick} package
 3. how to use Github effectively
 
+## Tools
+
+- [R](https://www.r-project.org/)
+- [RStudio](https://posit.co/products/open-source/rstudio/)
+
+
 A meme that captures how I currently feel about my university studies is 
 
 ![https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQxNzB6bmx5N2p4bTB4N2ZsODU1aGgxY2hwdmdoM2o3eGNlZWMwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xLlw6GHVfokaNW/giphy.gif)
