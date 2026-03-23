@@ -4,6 +4,7 @@ This is my repo for **STATS 220** at the *University Of Auckland*.
 
 ## A little about me:
 
+<! --- unordered lists --->
 - I am undertaking a degree in science 
 - I am taking STATS 220 because it peaked my interest
 - I am interested in learning about creative data communications
