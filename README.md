@@ -11,6 +11,7 @@ This is my repo for **STATS 220** at the *University Of Auckland*.
 
 ## What I'm Learning
 
+<!--- ordered lists--->
 1. Creating HTML by combining modern technologies
 2. Working with R and the {magick} package
 3. how to use Github effectively
