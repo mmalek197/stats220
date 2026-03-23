@@ -1,6 +1,6 @@
 # stats220
 
-This is my repo for **STATS 220** at the *university of auckland*. 
+This is my repo for **STATS 220** at the *University Of Auckland*. 
 
 ## A little about me:
 
