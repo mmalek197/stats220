@@ -1,8 +1,8 @@
 # stats220
 
-This is my repo for STATS 220. 
+This is my repo for **STATS 220** at the *university of auckland*. 
 
-A little about me:
+## A little about me:
 
 - I am undertaking a degree in science 
 - I am taking STATS 220 because it peaked my interest
